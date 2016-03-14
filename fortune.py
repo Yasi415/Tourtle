@@ -8,3 +8,4 @@ print random.choice(fortunes) + " " + "*" "Your lucky numbers are:" + str(random
 
 
 
+
